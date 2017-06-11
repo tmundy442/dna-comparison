@@ -1,0 +1,1 @@
+This is a program to determine which parent is the primary DNA donor to their child. DNA sequences for Parent 1, Parent 2, and Child are input, and the longest intact sequence from the parent is found and output to the console. Output identifies which parent is the primary donor, and the longest intact sequence from that parent.
